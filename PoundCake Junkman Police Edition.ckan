@@ -1,0 +1,38 @@
+{
+  "spec_version": "v1.6",
+  "identifier": "KerbalX-generated-modpack",
+  "version": "1",
+  "license": "unknown",
+  "kind": "metapackage",
+  "name": "Craft Mod list for PoundCake Junkman Police Edition",
+  "abstract": "Metapackage with 9/10 dependencies for PoundCake Junkman Police Edition",
+  "recommends": [
+    {
+      "name": "AviationLights"
+    },
+    {
+      "name": "B9"
+    },
+    {
+      "name": "TweakScale"
+    },
+    {
+      "name": "FerramAerospaceResearch"
+    },
+    {
+      "name": "ImpossibleInnovations"
+    },
+    {
+      "name": "InterstellarFuelSwitch"
+    },
+    {
+      "name": "Buffalo"
+    },
+    {
+      "name": "SXTContinued"
+    },
+    {
+      "name": "KerbalFoundriesContinued"
+    }
+  ]
+}
