@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JRSCDevelopers
+- 👋 Hi, I’m @ Mr. Autistic
 - 👀 I’m interested in ...Gaming ,Content Creation, Apple Developer and Game Design
 - 🌱 I’m currently learning ...Encoding a New Game......
 - 💞️ I’m looking to collaborate on ...Streams,Discord Giveaways and Video and File Distribution
